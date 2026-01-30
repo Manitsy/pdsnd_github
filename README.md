@@ -1,17 +1,20 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+EDA project : Bikeshare
 
 ### Date created
-Include the date you created this project and README file.
+Creation date : 29th Jan 2026
 
 ### Project Title
-Replace the Project Title
+Bikeshare Dataseet Analysis
 
 ### Description
-Describe what your project is about and what it does
+In this project, I designed and implemented a Python-based data analysis pipeline to ingest, process, and analyze bike-share datasets for three major U.S. cities—Chicago, New York City, and Washington. The solution includes robust data loading, transformation, and aggregation logic to compute key descriptive metrics and usage patterns. Additionally, I developed an interactive, command-line–driven interface that enables dynamic filtering and on-demand analytics, demonstrating practical data engineering skills in data ingestion, validation, transformation, and user-facing analytics delivery.
 
 ### Files used
-Include the files used
+washington.csv
+new_york_city.csv
+chicago.csv
+chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity Nanodegree project
 

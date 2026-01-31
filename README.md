@@ -20,18 +20,22 @@ chicago.csv
 Python code : 
 bikeshare.py
 
-### Running the code: 
+### Running the code: ß
 workspace root$ python bikeshare.py 
+
 Hello! Let's explore some US bikeshare data!
+
 Enter city (Chicago, New York City, Washington): Chicago
 Enter month (all, January, February, ... June): Januaury
+
 ❌ Invalid month. Please try again.
+
 Enter month (all, January, February, ... June): January
 Enter day (all, Monday, Tuesday, ... Sunday): Monday
 ----------------------------------------
 
 Calculating The Most Frequent Times of Travel...
-
+ßßßßß
 Most Common Month: 1
 Most Common Day of Week: Monday
 Most Common Start Hour: 17

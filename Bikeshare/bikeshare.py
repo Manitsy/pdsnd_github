@@ -9,6 +9,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 def display_raw_data(df):
     """
     Displays raw data 5 rows at a time upon user request.
+    It will give options to continue viewing more data until the user opts out.
     """
     row_index = 0
 

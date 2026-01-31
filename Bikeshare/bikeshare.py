@@ -1,3 +1,8 @@
+"""
+Bikeshare Data Analysis Script
+This script allows users to explore US bikeshare data for Chicago, New York City, and Washington.
+Users can filter data by city, month, and day of the week, and view various statistics. 
+"""
 import time
 import pandas as pd
 import numpy as np

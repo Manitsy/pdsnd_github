@@ -26,11 +26,14 @@ workspace root$ python bikeshare.py
 Hello! Let's explore some US bikeshare data!
 
 Enter city (Chicago, New York City, Washington): Chicago
+
 Enter month (all, January, February, ... June): Januaury
 
 ❌ Invalid month. Please try again.
 
+
 Enter month (all, January, February, ... June): January
+
 Enter day (all, Monday, Tuesday, ... Sunday): Monday
 ----------------------------------------
 
@@ -84,4 +87,3 @@ Would you like to see 5 lines of raw data? Enter yes or no
 
 ### Credits
 Udacity Nanodegree project
-
